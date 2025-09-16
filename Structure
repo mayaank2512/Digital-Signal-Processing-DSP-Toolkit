@@ -1,0 +1,10 @@
+DSP-Toolkit/
+│── dsp_toolkit/
+│   ├── signal_gen.py
+│   ├── fft_module.py
+│   ├── filters.py
+│   ├── modulation.py
+│── examples/
+│   ├── demo_signal.py
+│── README.md
+│── requirements.txt
